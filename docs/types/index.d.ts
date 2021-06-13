@@ -22,7 +22,7 @@
 /* tslint:disable:max-file-line-count */
 /* tslint:disable:completed-docs */
 
-import Proxy = require( '@stdlib/proxy/ctor' );
+import Proxy = require( './../../ctor' );
 
 /**
 * Interface describing the `proxy` namespace.
