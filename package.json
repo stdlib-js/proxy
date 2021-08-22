@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/proxy",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Proxy.",
   "license": "Apache-2.0",
   "author": {
@@ -36,8 +36,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert": "github:stdlib-js/assert",
-    "@stdlib/utils": "github:stdlib-js/utils"
+    "@stdlib/assert": "github:stdlib-js/assert#main",
+    "@stdlib/utils": "github:stdlib-js/utils#main"
   },
   "devDependencies": {
     "@stdlib/array": "github:stdlib-js/array",
