@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-01)
+## Unreleased (2024-08-03)
 
 <section class="packages">
 
@@ -14,25 +14,11 @@
 
 <!-- /.packages -->
 
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Athan Reines
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
 
 <details>
-
--   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
 
 </details>
 
@@ -72,15 +58,55 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### Packages
 
+<section class="package" id="proxy-v0.2.0">
+
+#### [@stdlib/proxy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/proxy)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="proxy-ctor-v0.2.0">
+
+#### [@stdlib/proxy/ctor](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/proxy/ctor)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 <section class="commits">
 
 ### Commits
 
 <details>
+
+-   [`4626ee3`](https://github.com/stdlib-js/stdlib/commit/4626ee394844110cca32bf3b84acab82daccea8d) - **build:** remove tslint directives _(by Philipp Burckhardt)_
+-   [`8fbd70f`](https://github.com/stdlib-js/stdlib/commit/8fbd70f16653c25dfd2094511555c77d523c1126) - **build:** replace tslint directive with eslint equivalent _(by Philipp Burckhardt)_
+-   [`9502ed2`](https://github.com/stdlib-js/stdlib/commit/9502ed27e2853e312c556a48bdd7775095e66709) - **build:** replace tslint directive with eslint equivalent _(by Philipp Burckhardt)_
 
 </details>
 
@@ -116,15 +142,114 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### Packages
 
+<section class="package" id="proxy-v0.1.0">
+
+#### [@stdlib/proxy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/proxy)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version
+-   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="proxy-ctor-v0.1.0">
+
+#### [@stdlib/proxy/ctor](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/proxy/ctor)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version
+-   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version
+-   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 <section class="commits">
 
 ### Commits
 
 <details>
+
+-   [`d73bbf4`](https://github.com/stdlib-js/stdlib/commit/d73bbf43d222f935085f8ecf7526e5f57835f74e) - **build:** replace lint directives _(by Philipp Burckhardt)_
+-   [`efe050d`](https://github.com/stdlib-js/stdlib/commit/efe050dbf3d17bd6929da255fa079c0324afc213) - **feat:** update minimum TypeScript version _(by Philipp Burckhardt)_
+-   [`55866ea`](https://github.com/stdlib-js/stdlib/commit/55866ea8ef1282528b839fd9ce9c43c6a80056f8) - **test:** use strictEqual checks _(by Philipp Burckhardt)_
 
 </details>
 
